@@ -1,6 +1,8 @@
 @charset "UTF-8"
 body{
-  background-color:#fbf9cc;
+  background-color: #fbf9cc;
+  background-image: url(https://fnamerica.com/wp-content/uploads/2003/09/FN_P90_Rotators_f-1800x900.jpg);
+  background-repeat: repeat-x;
 }
 h1{
   font-size:1.75em;
